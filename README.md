@@ -54,7 +54,7 @@ Li, Jiwen
 Fan, Xinsong (Robert)
 
 Huynh, Brianna
- 
+
 Huynh, Amanda
 
 Emmanuel Ezirim
@@ -68,3 +68,5 @@ Huang, Jun Rui (Eric)
 Rodriguez, Dave
 
 Rochlani, Kyna
+
+Kavulli, Rochan
